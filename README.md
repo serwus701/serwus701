@@ -1,8 +1,8 @@
 <div align="center">
   
 ## About me:
-  Hi, I'm student at Politechnika Wrocławska. Currently employed in Volvo as Intern Frontend Software Engeneer.
-  Professionally I'm using React, SharePoint and Azure technologies.
+  Hi, I'm student at Politechnika Wrocławska. Currently employed in Volvo as Intern Fullstack Software Engeneer.
+  Professionally I'm using React, SharePoint, C# and Azure technologies.
 
 -------------------
 

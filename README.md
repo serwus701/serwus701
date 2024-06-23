@@ -1,8 +1,8 @@
 <div align="center">
   
 ## About me:
-  Hi, I'm student at Politechnika Wrocławska. Currently employed in Volvo as Fullstack Software Engeneer.
-  Professionally I'm using React, SharePoint, .Net and Azure technologies.
+  Hi, I'm 4th year student at Wroclaw University of Science and Technology. Professionally Fullstack/DevOps Software Engineer at Volvo Digital & IT.
+  I'm using React, SPFx with SharePoint, .Net and Azure.
 
 -------------------
 

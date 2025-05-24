@@ -6,7 +6,7 @@
   
   -------------------
   
-  ### Languages and Tools I use:
+  ### Languages and Tools I use profesionally:
   
 <p align="center">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" width="40" height="40"/>
@@ -15,7 +15,7 @@
     <img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" alt="React" width="40" height="40"/>
 </p>
 
-
+### Repos Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serwus701&hide=jupyter%20notebook,c%2B%2B,c,html,makefile&layout=donut&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Langs" />
 </p>

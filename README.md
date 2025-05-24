@@ -14,7 +14,7 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/6412038?s=280&v=4" alt="React" width="40" height="40"/> </a> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serwus701&hide=jupyter%20notebook,c%2B%2B&layout=donut&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serwus701&hide=jupyter%20notebook,c%2B%2B,c,html,makefile&layout=donut&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Langs" />
 </p>
   </div>
   
